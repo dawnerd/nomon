@@ -1,6 +1,6 @@
 /*
   nomon.js
-  Easily show/hide portions of text in long paragraphs.
+  Simple show more helper.
 
   Requires: jQuery 1.6.x
 */
