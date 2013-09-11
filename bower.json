@@ -1,0 +1,23 @@
+{
+  "name": "nomon",
+  "main": "nomon.js",
+  "version": "0.2.0",
+  "homepage": "https://github.com/dawnerd/nomon",
+  "authors": [
+    "Troy Whiteley <dawnerd@gmail.com>"
+  ],
+  "description": "A simple show more helper for jquery.",
+  "keywords": [
+    "read",
+    "more",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
